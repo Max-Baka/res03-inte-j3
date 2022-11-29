@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    margin-top: 0;
+}
+h1{
+    display: none;
+}
+#yep1{
+    background-color: #d52a54;
+}
+.head{
+    display: inline-block;
+	list-style: none;
+}
