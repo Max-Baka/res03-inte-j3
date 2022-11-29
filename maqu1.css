@@ -1,0 +1,17 @@
+body{
+    background-color: #4455b3;
+    margin: auto;
+}
+form{
+    background-color: white;
+    position: absolute;
+    height: 60vh;
+    width: 100vh;
+    margin-top:3vw;
+    margin-left: 3vw;
+    border-radius: 30px;
+    text-align: center;
+}
+fieldset{
+    border: none;
+}
