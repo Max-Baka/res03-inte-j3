@@ -1,5 +1,5 @@
 body{
-    margin:0;
+
 }
 
 /*
@@ -11,38 +11,119 @@ body{
     height: 12vh;
 }
 */
-h3{
+h4{
+    margin-top :15vh;
     text-align:center;
 }
 #first1{
-    
+    height:40vw;
+    width:100vw;
 }
 #debut{
     background-color:white;
 }
 .yop1{
     position:absolute;
-    margin-left: 20vh;
+    margin-left: 15vw;
     margin-top:10vh;
     height:30vh;
     width:70vh;
 }
 .yop2{
     position: absolute;
-    margin-left:30vh;
+    margin-left:55vw;
     margin-top:10vh;
+    height:30vh;
+    width:70vh;
+}
+.yop3{
+    position:absolute;
+    margin-left: 15vw;
+    margin-top:16vw;
+    height:30vh;
+    width:70vh;
+}
+.yop4{
+    position: absolute;
+    margin-left:55vw;
+    margin-top:16vw;
     height:30vh;
     width:70vh;
 }
 #cours{
     background-color: blue;
+
+}
+.dev{
+    position:absolute;
+    height:55vh;
+    width:40vh;
+    margin-left:10vw;
+    margin-top:15vw;
+}
+.desig{
+    position:absolute;
+    height:55vh;
+    width:40vh;
+    margin-left: 40vw;
+    margin-top:15vw;
+}
+.gest{
+    position:absolute;
+    height:55vh;
+    width:40vh;
+    margin-left: 70vw;
+    margin-top:15vw;
 }
 #date{
     background-color: white;
 }
+.info{
+    position:absolute;
+    margin-left:10vw;
+    margin-top:15vw;
+    height:35vh;
+    width:35vh;
+    border: solid 1px black;
+    
+}
+.collo{
+    position:absolute;
+     margin-left:30vw;
+    margin-top:15vw;
+    height:35vh;
+    width:35vh;
+    border: solid 1px black;
+}
+.stage{
+    position:absolute;
+     margin-left:50vw;
+    margin-top:15vw;
+    height:35vh;
+    width:35vh;
+    border: solid 1px black;
+}
+.initi{
+    position:absolute;
+     margin-left:70vw;
+    margin-top:15vw;
+    height:35vh;
+    width:35vh;
+    border: solid 1px black;
+}
 #contact{
+    position: absolute;
     background-color:blue;
+    margin-top: 35vw;
+    margin-left:0;
+    height:20vw;
+    width:49vw;
 }
 #contact2{
+    position:absolute;
     background-color:blue;
+    margin-top:35vw;
+    margin-left:50vw;
+    height:20vw;
+    width: 49vw;
 }
